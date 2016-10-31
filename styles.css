@@ -1,0 +1,85 @@
+@page {
+
+	margin: 2rem 3rem 3rem;
+	size: a4 portrait;
+}
+
+html {
+
+	color: #202020;
+	font-family: sans-serif;
+	font-family: "Work Sans";
+	line-height: 1.5rem;
+}
+
+body {
+
+	padding: 1rem 2rem 2rem;
+	margin: 0;
+}
+
+@media print {
+
+	body {
+
+		padding: 0;
+	}
+}
+
+a {
+
+	border: 0;
+	border-bottom: 0.15rem solid black;
+	color: #2e2e2e;
+	padding: 0.15rem 0;
+	text-decoration: none;
+}
+
+h1, h2, h3, h4, h5 {
+
+	font-weight: 600;
+}
+
+h1 {
+
+	font-size: 1.8rem;
+}
+
+
+h1, h2 {
+
+	border-top: 0.3rem solid black;
+	padding-top: 0.3em;
+}
+
+h3 {
+
+	margin-bottom: 0;
+}
+
+h4, h5 {
+
+	margin: 0.25rem 0 0;
+}
+
+h5 {
+
+	font-size: 1.1rem;
+	font-style: italic;
+	font-weight: 500;
+}
+
+strong {
+
+	font-weight: 600;
+}
+
+table {
+
+	width: 100%;
+}
+
+table td, table th {
+
+	padding: 0 2rem 0 0;
+}
