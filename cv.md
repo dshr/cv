@@ -10,7 +10,7 @@
 ### Developer at TOAD London
 ##### November 2014 - Present
 
-[TOAD](https://toadlondon.com) is a creative agency in the heart of Shoreditch, with a diverse portfolio of projects, ranging from app development to video production and everything in between. Working in such an environment meant using wide selection of tools, allowing me to work with both the trendiest **JavaScript and NodeJS** frameworks and plain old **WordPress**. During my time at TOAD I got into iOS development with **Swift**, creating and shipping two apps that are currently available on the App Store - [OnBeat](https://itunes.apple.com/gb/app/onbeat-the-art-of-clubbing/id1046460886), a clubbing event discovery app, and [Goalmouth](https://itunes.apple.com/gb/app/goalmouth-premier-league-predictions/id1093231381), a brand new football betting experience.
+[TOAD](https://toadlondon.com) is a creative agency in the heart of Shoreditch, with a diverse portfolio of projects, ranging from app development to video production and everything in between. Working in such an environment means using a wide selection of tools, allowing me to work with both the trendiest **JavaScript and NodeJS** frameworks and plain old **WordPress**. During my time at TOAD I got into iOS development with **Swift**, creating and shipping two apps that are currently available on the App Store - [OnBeat](https://itunes.apple.com/gb/app/onbeat-the-art-of-clubbing/id1046460886), a clubbing event discovery app, and [Goalmouth](https://itunes.apple.com/gb/app/goalmouth-premier-league-predictions/id1093231381), a brand new football betting experience.
 
 ### Developer Intern at Overleaf (then WriteLaTeX)
 ##### July-September 2014
@@ -35,17 +35,15 @@ This was a thorough course into the technology behind moving image and sound. Wi
 
 ## Skills
 
-|**Programming**           |**Other**                           |
-|:-------------------------|:-----------------------------------|
-|C - advanced              |Adobe Photoshop / Sketch            |
-|C++ - intermediate        |Git / Mercurial                     |
-|JUCE - intermediate       |LaTeX                               |
-|Objective C - beginner    |MarkDown (used it to write this CV) |
-|Pure Data - advanced      |                                    |
-|JavaScript - advanced     |**Languages**                       |
-|Swift - advanced          |English - fluent                    |
-|Ruby/Rails - intermediate |Bulgarian - native                  |
-|HTML & CSS - advanced     |Russian - native                    |
+|**Programming**             |**Languages**                       |
+|:---------------------------|:-----------------------------------|
+|C - advanced                |English - fluent                    |
+|C++ - intermediate          |Bulgarian, Russian - native         |
+|Objective C - intermediate  |                                    |
+|JavaScript - advanced       |**Other**                           |
+|Swift - advanced            |Adobe Photoshop / Sketch            |
+|Ruby / Rails - intermediate |Git / Mercurial                     |
+|HTML & CSS - advanced       |LaTeX / MarkDown                    |
 
 ## Other
 
