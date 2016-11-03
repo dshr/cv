@@ -2,8 +2,8 @@
 
 |                                                  |                                    |
 |--------------------------------------------------|------------------------------------|
-|mobile: [+44 77 8469 9656](tel: +44 77 8469 9656) |email: <hristov.desislav@gmail.com> |
-|website: <https://dshr.github.io>                 |github: <https://github.com/dshr>   |
+|mobile: [+44 77 8469 9656](tel: +44 77 8469 9656) |email: <hey@des.codes>              |
+|website: <https://des.codes>                      |github: <https://github.com/dshr>   |
 
 ## Work
 
