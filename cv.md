@@ -1,9 +1,9 @@
 # Desislav Hristov
 
-|                                                  |                                    |
-|--------------------------------------------------|------------------------------------|
-|mobile: [+44 77 8469 9656](tel: +44 77 8469 9656) |email: <hristov.desislav@gmail.com> |
-|website: <https://des.codes>                      |github: <https://github.com/dshr>   |
+|                                                      |                                    |
+|------------------------------------------------------|------------------------------------|
+|mobile: [+7 (921) 906-71-16](tel: +7 (921) 906-71-16) |email: <hristov.desislav@gmail.com> |
+|website: <https://des.codes>                          |github: <https://github.com/dshr>   |
 
 ## Work
 
@@ -47,6 +47,6 @@ This was a thorough course into the technology behind moving image and sound. Wi
 
 ## Other
 
-Music is a big part of my life. I used to play guitar in a band back in Saint-Petersburg and dabbled in music production, going as far as mixing and mastering one of my band's EPs. Right now I mainly record at home into Ableton Live and play around in Pure Data.
+Music is a big part of my life. I currently play guitar in a band back and dabble in music production, mixing and mastering my bands tracks for my friends and myself. I also experiment with electronic music and sound design in MaxMSP and Pure Data.
 
-I also enjoy going to the odd hackathon or doing a game development challenge.
+Apart from that, I enjoy going to the odd hackathon or doing a game development challenge.
