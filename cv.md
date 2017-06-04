@@ -47,6 +47,6 @@ This was a thorough course into the technology behind moving image and sound. Wi
 
 ## Other
 
-Music is a big part of my life. I currently play guitar in a band back and dabble in music production, mixing and mastering my bands tracks for my friends and myself. I also experiment with electronic music and sound design in MaxMSP and Pure Data.
+Music is a big part of my life. I currently play guitar in a band here in St. Petersburg and dabble in music production, mixing and mastering tracks for my friends and myself. I also experiment with electronic music and sound design in MaxMSP and Pure Data.
 
 Apart from that, I enjoy going to the odd hackathon or doing a game development challenge.
