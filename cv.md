@@ -10,7 +10,7 @@
 ### Mobile Developer at Toggl Track
 ##### August 2018 — October 2020
 
-[Toggl Track](https://toggl.com/track/) is the leading time time tracking platform for enterprise and individual clients alike. Working in the mobile team there I got to take part in pushing the envelope of **Xamarin** cross-platform development, along with getting proficient with functional reactive programming (**Rx** is ♥️). Later on I became a part of the dedicated iOS team, working with the latest iOS tech like **SwiftUI** and **Combine**. You can check the Toggl Track mobile app out [here](https://apps.apple.com/us/app/toggl/id1291898086).
+[Toggl Track](https://toggl.com/track/) is the leading time tracking platform for enterprise and individual clients alike. Working in the mobile team there I got to take part in pushing the envelope of **Xamarin** cross-platform development, along with getting proficient with functional reactive programming (**Rx** is ♥️). Later on I became a part of the dedicated iOS team, working with the latest iOS tech like **SwiftUI** and **Combine**. You can check the Toggl Track mobile app out [here](https://apps.apple.com/us/app/toggl/id1291898086).
 
 ### Developer at TOAD London
 ##### November 2014 - August 2018
